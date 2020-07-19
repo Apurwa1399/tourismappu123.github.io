@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.more{font-size: 120px; font-weight: 720}
+.blog{width:40%}
+.blog2{width:60%}
+.blog2-1{width:30%}
+.blog2-2{width:70%}
+.jumbohead {background: url(north/kashmir.jpg.png); height: 400px; }
+.dis li{display: inline-block;}

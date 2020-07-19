@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.jumboheader{background-image: url(india.jpg); background-size: cover;}
+.more{font-size: 70px; font-weight: 700;}
+.jumbohead {background: url(north/ladakh.jpg.png); height: 400px;}
+.jumborhead {background: url(north/kashmir.jpg.png); height: 400px; }
+.dec{font-size: 50px; font-weight: 650;}
+.dis li{display: inline-block;}
+.mrg{margin-top: 400px;}
+.decc{font-size: 25px; font-weight: 350;}
